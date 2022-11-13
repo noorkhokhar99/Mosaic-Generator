@@ -29,7 +29,7 @@ pip install -r requirements.txt
 ```
 - Run the code with mentioned command below.
 
-`rice.py`
+`app.py`
 
  
 
