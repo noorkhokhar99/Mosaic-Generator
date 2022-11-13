@@ -35,11 +35,10 @@ pip install -r requirements.txt
 
 
 <p align="center">
-<img src="https://github.com/noorkhokhar99/rice-quality-analysis/blob/main/screenshots/terminal.png">
+<img src="https://github.com/noorkhokhar99/Mosaic-Generator/blob/main/Screen%20Shot%201444-04-18%20at%204.49.27%20PM.png">
 </p>
 
 
-<img src="https://github.com/noorkhokhar99/rice-quality-analysis/blob/main/screenshots/images.png">
 
 
 
